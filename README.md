@@ -24,19 +24,21 @@ A software engineer who is passionate about building websites and web apps, maki
 # 💫About Me :
 
 ```javascript
-const Brainconnect = {
+const Aqurds = {
     FULLNAME: Omar Faruk,
     PRONOUNCE: ["He", Him],
     NATIONALITY: "Dhaka, Bangladesh",
-    CURRENTLY LEARNING: DevOps, ML, AI. Focusing on making software testing more robust. 
-    LOOKING FOR: "Full-stack web development" || "Team lead"
-    STUDENT@: [Microverse],
+    CURRENTLY LEARNING: DevOps, ML, AI. Focusing on making software testing more robust, DSA & Problem solving.
+    LOOKING FOR: "Full-stack role" || "Team lead"
+    STUDENT@: [Microverse, Educative],
     HOBBIES: ["Solving coding challenges", MotorBiking, BodyBuilding, Carpentry],
-    TECH STACK:["JavaScript", React, "Redux", "Python", Django, FastAPI, Flask, "NPM", Node, MySQL, "PostgreSQL"],
-    TOOLS: [Netlify, "GitLab", Github, "Dev", Heroku, "Git"]
+    TECH STACK:["JavaScript", React, Redux, Next, "Python", Django, FastAPI, Flask],
+    TOOLS: ["Docker", DockerCompose, "Github", Gitlab],
+    SERVER: ["AWS", GCP, Heroku, DigitalOcean],
+    DATABASE: ["MySQL", PostgreSQL, MongoDB, DynamoDB],
     EDUCATION: {
         BachlorsDegree: Physics,
-        isCompleted: true},
-    TELEPHONE NUMBER: "+8801708519645",
+    },
+    TELEPHONE: "+8801708519645",
 }
 ```
