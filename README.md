@@ -36,9 +36,6 @@ const Aqurds = {
     TOOLS: ["Docker", DockerCompose, "Github", Gitlab],
     SERVER: ["AWS", GCP, Heroku, DigitalOcean],
     DATABASE: ["MySQL", PostgreSQL, MongoDB, DynamoDB],
-    EDUCATION: {
-        BachlorsDegree: Physics,
-    },
     TELEPHONE: "+8801708519645",
 }
 ```
