@@ -38,6 +38,5 @@ const Brainconnect = {
         BachlorsDegree: Physics,
         isCompleted: true},
     TELEPHONE NUMBER: "+8801708519645",
-    SOCIAL MEDIA: ["LinkedIn", "WhatsApp", "Twitter"],   
 }
 ```
